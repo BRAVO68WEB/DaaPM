@@ -1,0 +1,12 @@
+{
+  "name": "DaaPM",
+  "version": "1.0.0",
+  "description": "Doppler as a Password Manager",
+  "repository": "https://github.com/BRAVO68WEB/DaaPM.git",
+  "author": "BRAVO68WEB",
+  "license": "MIT",
+  "workspaces": [
+    "apps/*"
+   ],
+  "private": true
+}
